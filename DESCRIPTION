@@ -1,0 +1,16 @@
+Package: norwaynames
+Title: Provides Norweigian Baby Name Data
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Emily",
+           family = "Kothe",
+           role = c("aut", "cre"),
+           email = "ekothe@deakin.edu.au")
+Description: this dataset includes the sex, count, and proportion of births for 
+              each first name from 1880 - 2017. The data set includes all names 
+              with more than 4 instances in any given year.
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
+Depends: R (>= 2.10)
